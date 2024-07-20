@@ -1,6 +1,6 @@
 Tailwind CSS Home
 
-Reference URL : https://tailwindui.com/components/application-ui/page-examples/home-screens
+Reference : https://tailwindui.com/components/application-ui/page-examples/home-screens
 
 
 
